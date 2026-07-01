@@ -1,5 +1,5 @@
 
-## 📸 Demostración
+##  Demostración
 
 ### 📊 Archivo de Excel
 
